@@ -12,3 +12,9 @@ brew install fswatch
 ```sh
 make main.pdf
 ```
+
+## 统计字数
+
+```sh
+make wc
+```
